@@ -1,0 +1,6 @@
+shiny>=0.5.0
+pandas>=2.0.0
+numpy>=1.23.0
+matplotlib>=3.5.0
+plotly>=5.10.0
+pytest>=7.0.0
