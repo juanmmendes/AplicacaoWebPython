@@ -13,7 +13,7 @@ Aprofundar o conhecimento em desenvolvimento backend com Python e aplicar habili
 
 ## 📦 Tecnologias
 - Python 3.11+
-- Flask / Django
+- Flask / Django / Shiny 
 - Bootstrap 5
 - PostgreSQL ou SQLite
 - Git & GitHub
